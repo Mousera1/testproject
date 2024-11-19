@@ -1,6 +1,4 @@
-Here's a professional **README.md** file for your GitHub repository titled "E-commerce Website Using Java Selenium with POM Framework."
 
----
 
 # E-commerce Website Using Java Selenium with POM Framework
 
